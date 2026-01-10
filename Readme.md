@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=240&section=header&text=Syed%20Ahmed%20Ali%20Murtaza&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20|%20Cisco%20Certified%20(CCNP)%20|%20Infrastructure%20Specialist&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,100:0077B5&height=240&section=header&text=Syed%20Ahmed%20Ali%20Murtaza&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20|%20IT%20Specialist%20|%20Cisco%20Certified%20(CCNP)&descAlignY=60&descAlign=50"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/syed-ahmed-ali-murtaza-69358728b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:syedahmedalimurtaza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://facebook.com/Syed Ahmed Ali Murtaza"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
@@ -16,11 +16,26 @@
 
 ## 👨‍💻 About Me
 
-I am a results-driven **IT Specialist** and **Network Engineer** based in **Islamabad, Pakistan**, with over five years of hands-on experience optimizing complex IT ecosystems . My professional journey is defined by a deep expertise in **Network Infrastructure**, where I excel in designing, implementing, and securing robust architectures that ensure business continuity .
+I am a dedicated **IT Specialist** and **Network Engineer** based in **Islamabad, Pakistan** . With over five years of diverse experience in the IT industry, I possess a proven track record in network engineering, systems administration, and mobile app development . I excel in designing, implementing, and maintaining robust IT infrastructures to ensure optimal performance, security, and reliability .
 
-Beyond core networking, I am a versatile technologist. I have a strong background in **Systems Administration**, managing everything from server cooling and backups to biometric security systems and CCTV integration . I also possess a creative side as a **Freelance Developer**, building Android applications with monetization features and developing full-stack web solutions for affiliate marketing and service management .
+I am **Cisco Certified (CCNP & CCNA)** with a strong foundation in cybersecurity, network design, and support . Beyond infrastructure, I am a skilled developer with experience creating Android apps (AdMob integration) and full-stack web solutions .
 
-I am passionate about knowledge sharing and mentorship. During my time as a Systems Administrator at Corvit Systems, I actively trained students in **CCNA** and **MCSE** programs, helping the next generation of engineers navigate the complexities of routing and switching . I am **Cisco Certified (CCNP & CCNA)** and constantly expanding my skill set in cybersecurity and cloud technologies .
+---
+
+## 🚀 Current Professional Role
+
+### **IT Specialist** | Zubair Feeds (Pvt) Ltd
+*📍 Islamabad, Pakistan | 📅 September 2024 - Present* > *Currently managing the complete IT infrastructure, ensuring 100% uptime and security for the organization.*
+
+* **MPLS & Connectivity:** Manage and monitor MPLS Wireless Connectivity, coordinating with service providers to resolve network issues promptly .
+* **LAN Infrastructure:** Set up and maintain the Local Area Network (LAN), including firewalls, main routers, switches, cables, I/Os, and Wi-Fi routers .
+* **Biometric Systems:** Install, configure, and troubleshoot Biometric Attendance Systems .
+* **Surveillance (CCTV):** Oversee installation, configuration, backups, and support for CCTV Cameras and NVR systems .
+* **Server Administration:** Manage Server installation, configuration, backups, cooling systems, and troubleshooting .
+* **Hardware Support:** Provide installation, configuration, and technical support for Computers, Laptops, and Printers .
+* **Database & Software:** Configure and support Scale Software and its Database .
+* **Power Management:** Ensure Uninterrupted Power Supply (UPS) functionality and maintain the required temperature for all IT equipment .
+* **Reporting:** Submit daily reports to the IT Department at Head Office .
 
 ---
 
@@ -65,32 +80,26 @@ I actively design and simulate complex network topologies to stay sharp with ent
 
 ---
 
-## 🚀 Development Projects
+## 💼 Previous Experience
 
-* **🛒 Affilix:** A user-friendly platform for affiliate marketers enabling multiple users to register, add affiliate links, upload product images, and create personalized portfolios.
-* **🛠️ FixItNow:** A role-based web application connecting customers with skilled service technicians, featuring booking, profile management, and administrative oversight.
+### **Internship Trainee** | Federal Directorate of Education
+*📍 Islamabad, Pakistan | 📅 July 2022 - July 2023* * Strengthened skills in network troubleshooting and deployment .
+
+### **Junior Network Engineer** | Avaya Solutions International
+*📍 Islamabad, Pakistan | 📅 February 2020 - April 2022* * Troubleshot routing and switching issues, deployed advanced network models, and minimized downtime .
+
+### **Systems Administrator** | Corvit Systems
+*📍 Islamabad, Pakistan* * Managed system labs, deployed new setups, and trained students in CCNA and MCSE programs .
+
+### **Freelance Android Developer**
+* Supported client business needs by delivering Android apps with Google AdMob integration .
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Development Projects
 
-### **IT Specialist** | Zubair Feeds (Pvt) Ltd
-*📍 Islamabad, Pakistan | 📅 September 2024 - Present* * **Connectivity & MPLS:** Manage and monitor MPLS Wireless Connectivity, coordinating directly with service providers to resolve outages and latency issues promptly .
-* **Infrastructure Management:** Set up and maintain the complete Local Area Network (LAN), including Firewalls, Routers, Switches, and Wi-Fi Access Points .
-* **Security & Surveillance:** Install and configure Biometric Attendance Systems. Oversee the full lifecycle of CCTV/NVR systems, including installation, configuration, and backups .
-* **Systems Administration:** Manage server installation, configuration, cooling, and troubleshooting. Ensure UPS functionality and environmental control for all IT assets .
-* **Database & Support:** Configure and support specialized Scale Software and its Database. Provide technical support for computers, laptops, and printers .
-
-### **Internship Trainee** | Federal Directorate of Education
-*📍 Islamabad, Pakistan | 📅 July 2022 - July 2023* * Strengthened practical skills in network troubleshooting and large-scale deployment .
-
-### **Junior Network Engineer** | Avaya Solutions International
-*📍 Islamabad, Pakistan | 📅 February 2020 - April 2022* * Troubleshot complex routing and switching issues to minimize downtime .
-* Deployed advanced network models and optimized performance .
-
-### **Systems Administrator** | Corvit Systems
-*📍 Islamabad, Pakistan* * Managed system labs and deployed new infrastructure setups .
-* **Training & Mentorship:** Trained students in **CCNA** and **MCSE** certification programs .
+* **🛒 Affilix:** A user-friendly platform for affiliate marketers enabling multiple users to register, add affiliate links, upload product images, and create personalized portfolios to streamline managing and showcasing affiliate products.
+* **🛠️ FixItNow:** A role-based web application connecting customers with skilled service technicians, allowing booking, profile management, and administrative oversight.
 
 ---
 
