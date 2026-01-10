@@ -11,9 +11,7 @@
   <a href="https://youtube.com/@syedahmedalimurtaza"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SamJaffery&icon=10&color=13" alt="Visitor Count" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=SamJaffery&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -21,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]I am a dedicated and skilled **IT Specialist** based in **Islamabad, Pakistan**[cite: 12, 17]. [cite_start]With over five years of diverse experience in the IT industry, I possess a proven track record in network engineering, systems administration, and mobile app development[cite: 15]. [cite_start]I excel in designing, implementing, and maintaining robust IT infrastructures to ensure optimal performance, security, and reliability[cite: 16].
+I am a dedicated and skilled **IT Specialist** based in **Islamabad, Pakistan**. With over five years of diverse experience in the IT industry, I possess a proven track record in network engineering, systems administration, and mobile app development. I excel in designing, implementing, and maintaining robust IT infrastructures to ensure optimal performance, security, and reliability.
 
-[cite_start]I am **Cisco Certified (CCNP & CCNA)** with a strong foundation in cybersecurity, network design, and support[cite: 9, 11]. Committed to continuous learning, I aim to leverage my technical expertise to contribute effectively to dynamic organizations and drive technological advancements.
+I am **Cisco Certified (CCNP & CCNA)** with a strong foundation in cybersecurity, network design, and support. Committed to continuous learning, I aim to leverage my technical expertise to contribute effectively to dynamic organizations and drive technological advancements.
 
 ### 🚀 Key Projects
 In addition to my infrastructure expertise, I have completed several web development projects using PHP, HTML, CSS, and Java:
@@ -74,34 +72,34 @@ In addition to my infrastructure expertise, I have completed several web develop
 ## 💼 Professional Experience
 
 ### **IT Specialist** | Zubair Feeds (Pvt) Ltd
-*📍 Islamabad, Pakistan | [cite_start]📅 September 2024 - Present* [cite: 34, 35, 36, 37]
+*📍 Islamabad, Pakistan | 📅 September 2024 - Present*
 
-* [cite_start]**📡 Network Operations:** Manage and monitor MPLS Wireless Connectivity, coordinating directly with service providers to resolve network issues promptly[cite: 18, 39, 40].
-* [cite_start]**🖥️ LAN Infrastructure:** Set up and maintain the full Local Area Network (LAN) ecosystem, including firewalls, main routers, switches, cabling, I/Os, and Wi-Fi routers[cite: 19, 42].
-* **🔒 Security Systems:** Install, configure, and troubleshoot Biometric Attendance Systems. [cite_start]Oversee the complete lifecycle (installation, config, backups, support) for CCTV Cameras and NVR systems[cite: 20, 44, 45].
-* [cite_start]**⚙️ Server Administration:** Manage Server installation, configuration, cooling systems, and perform regular backups and troubleshooting[cite: 21, 47].
-* **🛠️ Technical Support:** Provide end-to-end support for computers, laptops, and printers. [cite_start]Configure and support Scale Software and its associated Database[cite: 22, 48, 50].
-* [cite_start]**⚡ Power Management:** Ensure Uninterrupted Power Supply (UPS) functionality and maintain optimal temperatures for all IT equipment[cite: 23, 51].
+* **📡 Network Operations:** Manage and monitor MPLS Wireless Connectivity, coordinating directly with service providers to resolve network issues promptly.
+* **🖥️ LAN Infrastructure:** Set up and maintain the full Local Area Network (LAN) ecosystem, including firewalls, main routers, switches, cabling, I/Os, and Wi-Fi routers.
+* **🔒 Security Systems:** Install, configure, and troubleshoot Biometric Attendance Systems. Oversee the complete lifecycle (installation, config, backups, support) for CCTV Cameras and NVR systems.
+* **⚙️ Server Administration:** Manage Server installation, configuration, cooling systems, and perform regular backups and troubleshooting.
+* **🛠️ Technical Support:** Provide end-to-end support for computers, laptops, and printers. Configure and support Scale Software and its associated Database.
+* **⚡ Power Management:** Ensure Uninterrupted Power Supply (UPS) functionality and maintain optimal temperatures for all IT equipment.
 
 ### **Internship Trainee** | Federal Directorate of Education
-*📍 Islamabad, Pakistan | [cite_start]📅 July 2022 - July 2023* [cite: 54, 55, 56]
+*📍 Islamabad, Pakistan | 📅 July 2022 - July 2023*
 
-* [cite_start]Strengthened practical skills in network troubleshooting and large-scale deployment[cite: 29].
+* Strengthened practical skills in network troubleshooting and large-scale deployment.
 
 ### **Junior Network Engineer** | Avaya Solutions International
-*📍 Islamabad, Pakistan | [cite_start]📅 February 2020 - April 2022* [cite: 58, 60, 61]
+*📍 Islamabad, Pakistan | 📅 February 2020 - April 2022*
 
 * Troubleshot complex routing and switching issues.
-* [cite_start]Deployed advanced network models and minimized system downtime[cite: 26].
+* Deployed advanced network models and minimized system downtime.
 
 ### **Systems Administrator** | Corvit Systems
 *📍 Islamabad, Pakistan*
 
-* [cite_start]Managed system labs, deployed new setups, and trained students in CCNA and MCSE programs[cite: 27].
+* Managed system labs, deployed new setups, and trained students in CCNA and MCSE programs.
 
 ### **Freelance Android Developer**
 
-* [cite_start]Delivered Android applications featuring Google AdMob integration to support client business revenue models[cite: 30].
+* Delivered Android applications featuring Google AdMob integration to support client business revenue models.
 
 ---
 
@@ -109,10 +107,10 @@ In addition to my infrastructure expertise, I have completed several web develop
 
 | Certification / Degree | Institution | Dates |
 | :--- | :--- | :--- |
-| **Cisco Certified Network Professional (CCNP)** | Cisco | [cite_start]- [cite: 9] |
-| **Cisco Certified Network Associate (CCNA)** | Cisco | [cite_start]- [cite: 11] |
-| **BS, Information Technology** | Virtual University | [cite_start]Jan 2023 - Jan 2025 [cite: 63, 64] |
-| **Associate's Degree, Computer Networking** | Virtual University | [cite_start]Jan 2020 - Jan 2022 [cite: 66] |
+| **Cisco Certified Network Professional (CCNP)** | Cisco | - |
+| **Cisco Certified Network Associate (CCNA)** | Cisco | - |
+| **BS, Information Technology** | Virtual University | Jan 2023 - Jan 2025 |
+| **Associate's Degree, Computer Networking** | Virtual University | Jan 2020 - Jan 2022 |
 
 ---
 
