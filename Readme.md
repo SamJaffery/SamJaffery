@@ -9,10 +9,10 @@
   <a href="mailto:syedahmedalimurtaza@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://facebook.com/Syed Ahmed Ali Murtaza">
+  <a href="https://facebook.com/syedahmed.alimurtaza.7">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/Syed Ahmed Ali Murtaza">
+  <a href="https://instagram.com/msyedahmedali/)">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://youtube.com/@syedahmedalimurtaza">
