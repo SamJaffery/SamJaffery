@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Syed%20Ahmed%20Ali%20Murtaza&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20|%20Cisco%20Certified%20(CCNP)%20|%20Full%20Stack%20Dev&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=240&section=header&text=Syed%20Ahmed%20Ali%20Murtaza&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20|%20Cisco%20Certified%20(CCNP)%20|%20Infrastructure%20Specialist&descAlignY=60&descAlign=50"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/syed-ahmed-ali-murtaza-69358728b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:syedahmedalimurtaza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://facebook.com/Syed Ahmed Ali Murtaza"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
@@ -8,7 +8,7 @@
   <a href="https://youtube.com/@syedahmedalimurtaza"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SamJaffery&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SamJaffery&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -16,9 +16,11 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated **IT Specialist** and **Network Engineer** based in **Islamabad, Pakistan** . With over five years of experience , I specialize in designing robust network infrastructures, managing systems administration, and developing dynamic web and mobile applications.
+I am a results-driven **IT Specialist** and **Network Engineer** based in **Islamabad, Pakistan**, with over five years of hands-on experience optimizing complex IT ecosystems . My professional journey is defined by a deep expertise in **Network Infrastructure**, where I excel in designing, implementing, and securing robust architectures that ensure business continuity .
 
-I hold **CCNP (2023)** and **CCNA (2020)** certifications and have a proven track record of managing enterprise networks, troubleshooting complex routing/switching issues, and deploying secure IT environments .
+Beyond core networking, I am a versatile technologist. I have a strong background in **Systems Administration**, managing everything from server cooling and backups to biometric security systems and CCTV integration . I also possess a creative side as a **Freelance Developer**, building Android applications with monetization features and developing full-stack web solutions for affiliate marketing and service management .
+
+I am passionate about knowledge sharing and mentorship. During my time as a Systems Administrator at Corvit Systems, I actively trained students in **CCNA** and **MCSE** programs, helping the next generation of engineers navigate the complexities of routing and switching . I am **Cisco Certified (CCNP & CCNA)** and constantly expanding my skill set in cybersecurity and cloud technologies .
 
 ---
 
@@ -41,12 +43,12 @@ I hold **CCNP (2023)** and **CCNA (2020)** certifications and have a proven trac
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### **Cloud & Tools**
+### **Cloud, Database & Tools**
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
@@ -59,7 +61,7 @@ I actively design and simulate complex network topologies to stay sharp with ent
 * **Enterprise Network Topology Design:** Designed multi-branch enterprise networks using **Cisco Packet Tracer**, implementing VLANs, VTP, and Inter-VLAN routing for segmented traffic flow.
 * **Advanced Routing Implementation:** Deployed **GNS3** labs to simulate Multi-Area **OSPF**, **EIGRP**, and **BGP** peering between autonomous systems, optimizing convergence times.
 * **Virtual Network Emulation:** Utilized **EVE-NG** to emulate real-world vendor equipment, troubleshooting complex switching loops (STP/RSTP) and configuring EtherChannels.
-* **Security Implementation:** configured ACLs, NAT/PAT, and Site-to-Site VPNs in simulated environments to mimic secure corporate connectivity.
+* **Security Implementation:** Configured ACLs, NAT/PAT, and Site-to-Site VPNs in simulated environments to mimic secure corporate connectivity.
 
 ---
 
@@ -73,19 +75,22 @@ I actively design and simulate complex network topologies to stay sharp with ent
 ## 💼 Professional Experience
 
 ### **IT Specialist** | Zubair Feeds (Pvt) Ltd
-*📍 Islamabad, Pakistan | 📅 September 2024 - Present* * **Connectivity:** Manage MPLS Wireless Connectivity and coordinate with ISPs for issue resolution .
-* **Infrastructure:** Maintain LAN infrastructure, including firewalls, routers, switches, and Wi-Fi .
-* **Surveillance & Security:** Configure Biometric Attendance Systems and manage CCTV/NVR installation and backups .
-* **Server Ops:** Handle server installation, cooling, backups, and database support .
+*📍 Islamabad, Pakistan | 📅 September 2024 - Present* * **Connectivity & MPLS:** Manage and monitor MPLS Wireless Connectivity, coordinating directly with service providers to resolve outages and latency issues promptly .
+* **Infrastructure Management:** Set up and maintain the complete Local Area Network (LAN), including Firewalls, Routers, Switches, and Wi-Fi Access Points .
+* **Security & Surveillance:** Install and configure Biometric Attendance Systems. Oversee the full lifecycle of CCTV/NVR systems, including installation, configuration, and backups .
+* **Systems Administration:** Manage server installation, configuration, cooling, and troubleshooting. Ensure UPS functionality and environmental control for all IT assets .
+* **Database & Support:** Configure and support specialized Scale Software and its Database. Provide technical support for computers, laptops, and printers .
 
 ### **Internship Trainee** | Federal Directorate of Education
-*📍 Islamabad, Pakistan | 📅 July 2022 - July 2023* * Strengthened skills in network troubleshooting and large-scale deployment .
+*📍 Islamabad, Pakistan | 📅 July 2022 - July 2023* * Strengthened practical skills in network troubleshooting and large-scale deployment .
 
 ### **Junior Network Engineer** | Avaya Solutions International
-*📍 Islamabad, Pakistan | 📅 February 2020 - April 2022* * Troubleshot routing/switching issues and deployed advanced network models to minimize downtime .
+*📍 Islamabad, Pakistan | 📅 February 2020 - April 2022* * Troubleshot complex routing and switching issues to minimize downtime .
+* Deployed advanced network models and optimized performance .
 
 ### **Systems Administrator** | Corvit Systems
-*📍 Islamabad, Pakistan* * Managed system labs and trained students in CCNA and MCSE programs .
+*📍 Islamabad, Pakistan* * Managed system labs and deployed new infrastructure setups .
+* **Training & Mentorship:** Trained students in **CCNA** and **MCSE** certification programs .
 
 ---
 
