@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:302b63,100:24243e&height=280&section=header&text=Syed%20Ahmed%20Ali%20Murtaza&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20%7C%20Cisco%20Certified%20(CCNP)%20%7C%20IT%20Support%20Engineer%20Vibe%20Coder&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ffffff&height=280&section=header&text=Syed%20Ahmed%20Ali%20Murtaza&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20%7C%20Cisco%20Certified%20(CCNP)%20%7C%20IT%20Support%20Engineer%20Vibe%20Coder&descAlignY=58&descAlign=50"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/syed-ahmed-ali-murtaza-69358728b" target="_blank">
